@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99b450e2-f2d9-4fc0-8298-538e358414d1" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SubRank.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/SubRank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="666">
+              <caret line="238" column="65" lean-forward="true" selection-start-line="238" selection-start-column="65" selection-end-line="238" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReloadCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/logs/ReloadCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/misc/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GMReq.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/req/GMReq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Site.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Site.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Done.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Done.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1479">
+              <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PingCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/misc/PingCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Close.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Close.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public</find>
+      <find>&quot;</find>
+      <find>ART</find>
+      <find>Admin</find>
+      <find>a)</find>
+      <find>Artist</find>
+      <find>build</find>
+      <find>++</find>
+      <find>Builder</find>
+      <find>Art</find>
+      <find>database</find>
+      <find>Database</find>
+      <find>art</find>
+      <find>cmd</find>
+      <find>Dev</find>
+      <find>dev</find>
+      <find>Developer</find>
+      <find>DEVELOPER</find>
+      <find>Cmd</find>
+      <find>put</find>
+      <find>high</find>
+      <find>admin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BUILD</replace>
+      <replace>ART</replace>
+      <replace>art</replace>
+      <replace>private</replace>
+      <replace>'</replace>
+      <replace>DEV</replace>
+      <replace>Artist</replace>
+      <replace>[&quot;</replace>
+      <replace>a]</replace>
+      <replace>CMD</replace>
+      <replace>Builder</replace>
+      <replace>build</replace>
+      <replace>cmd</replace>
+      <replace>--</replace>
+      <replace>Developer</replace>
+      <replace>Art</replace>
+      <replace>Cmd</replace>
+      <replace>Dev</replace>
+      <replace>Build</replace>
+      <replace>ranks</replace>
+      <replace>Ranks</replace>
+      <replace>GM</replace>
+      <replace>add</replace>
+      <replace>med</replace>
+      <replace>low</replace>
+      <replace>dev</replace>
+      <replace>gm</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/listeners/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/Review.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/util/RomanNumeral.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Close.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/misc/ReloadCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/data.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/logs/ReloadCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/listeners/Chat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckDone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/util/UUIDUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/util/MojangAPIUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/req/GroupReq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/util/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Unclaim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/Check.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckArt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckBuild.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckCmd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckDev.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckGM.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Claim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/EditRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/logs/LogCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/logs/StatsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/AdminRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/ArtRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/BuildRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/CMDRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/DevRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/GMRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/AdminTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/ArtTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/BuildTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/CMDTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/DevTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/GMTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/ArtKarma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/AdminKarma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/BuildKarma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/CMDKarma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/DevKarma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/GMKarma.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/Log.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/SubRank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Reopen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Done.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="ranks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+              <item name="listeners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="karma" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="misc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="tickets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="tickets" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="tickets" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="check" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="tickets" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="us" type="462c0819:PsiDirectoryNode" />
+              <item name="howtozombie" type="462c0819:PsiDirectoryNode" />
+              <item name="tickets" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="req" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WynnconKarma" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WynnconKarma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AxtinSurvival2" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="us.howtozombie.misc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zombi\Desktop\IntelliJ Projects\WynnconKarma\src\main\java\us\howtozombie" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99b450e2-f2d9-4fc0-8298-538e358414d1" name="Default" comment="" />
+      <created>1518928453555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518928453555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3278867" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32972974" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19189766" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Statistic" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29691517" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Statistic" order="8" weight="0.32972974" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32972974" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32972974" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="397" column="139" selection-start-line="397" selection-start-column="139" selection-end-line="397" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckArt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="335" column="143" selection-start-line="335" selection-start-column="143" selection-end-line="335" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckBuild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="335" column="143" selection-start-line="335" selection-start-column="143" selection-end-line="335" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="335" column="143" selection-start-line="335" selection-start-column="143" selection-end-line="335" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckDev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="335" column="143" selection-start-line="335" selection-start-column="143" selection-end-line="335" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckDone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckGM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="335" column="143" selection-start-line="335" selection-start-column="143" selection-end-line="335" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/CheckManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5304">
+          <caret line="326" column="66" selection-start-line="326" selection-start-column="66" selection-end-line="326" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Claim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/util/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2890">
+          <caret line="194" column="5" selection-start-line="194" selection-start-column="5" selection-end-line="194" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/EditRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="114" column="66" selection-start-line="114" selection-start-column="66" selection-end-line="114" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/AdminRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/ArtRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/BuildRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/CMDRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/DevRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/ranks/GMRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/AdminTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/ArtTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/BuildTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/CMDTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/DevTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/tags/GMTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/check/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9265">
+          <caret line="560" selection-start-line="560" selection-end-line="560" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/logs/LogCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/ArtKarma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/CMDKarma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/DevKarma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="121" column="20" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/GMKarma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="121" column="20" selection-start-line="121" selection-start-column="20" selection-end-line="121" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/logs/StatsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/BuildKarma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="65" column="76" selection-start-line="65" selection-start-column="76" selection-end-line="65" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="121" column="56" selection-start-line="121" selection-start-column="56" selection-end-line="121" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/listeners/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/Rank.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4947">
+          <caret line="302" column="13" selection-start-line="302" selection-start-column="13" selection-end-line="302" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/karma/AdminKarma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Reopen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="85" column="64" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/listeners/Chat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3859">
+          <caret line="237" column="40" selection-start-line="237" selection-start-column="40" selection-end-line="237" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/user/SubRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Site.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Close.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/player/Done.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/misc/PingCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/misc/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/tickets/commands/req/GMReq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/karma/commands/logs/ReloadCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/howtozombie/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="238" column="65" lean-forward="true" selection-start-line="238" selection-start-column="65" selection-end-line="238" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>WynnconKarma:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>BossBarAPI_v2.4.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WynnconKarma</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spigot-1.12.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

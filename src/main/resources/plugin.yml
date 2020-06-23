@@ -1,0 +1,46 @@
+name: WynnconBuild
+version: 1.12.2
+author: HowToZombie
+main: us.howtozombie.Main
+database: true
+prefix: WynnconBuild
+permissions:
+   karma.give.admin:
+      default: false
+   karma.give.art:
+      default: false
+   karma.give.build:
+      default: false
+   karma.give.cmd:
+      default: false
+   karma.give.dev:
+      default: false
+
+   karma.rank.admin:
+      default: false
+   karma.rank.art:
+      default: false
+   karma.rank.build:
+      default: false
+   karma.rank.cmd:
+      default: false
+   karma.rank.dev:
+      default: false
+
+   karma.tag.admin:
+      default: false
+   karma.tag.art:
+      default: false
+   karma.tag.build:
+      default: false
+   karma.tag.cmd:
+      default: false
+   karma.tag.dev:
+      default: false
+
+   karma.log:
+      default: true
+   karma.stats:
+      default: true
+   karma.reload:
+      default: false

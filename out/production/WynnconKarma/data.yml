@@ -1,0 +1,47 @@
+users:
+  463925a6-bf21-4a47-bf64-7b42f399168b:
+    name: pname
+    admin:
+      rank: 2
+      rankNum: 0
+      karma: 10
+      hasTag: false
+      tag: ''
+    developer:
+      rank: 4
+      rankNum: 0
+      karma: 20000
+      hasTag: true
+      tag: 'smh'
+    builder:
+      rank: 4
+      rankNum: 0
+      karma: 20000
+      hasTag: true
+      tag: 'smh'
+    cmd:
+      rank: 4
+      rankNum: 0
+      karma: 20000
+      hasTag: true
+      tag: 'smh'
+    artist:
+      rank: 4
+      rankNum: 0
+      karma: 20000
+      hasTag: true
+      tag: 'smh'
+    gm:
+      rank: 4
+      rankNum: 0
+      karma: 20000
+      hasTag: true
+      tag: 'smh'
+    logs:
+      1:
+        date: YYYY-MM-DD
+        type: 'Developer'
+        giver: '463925a6-bf21-4a47-bf64-7b42f399168b'
+        amount: 10
+        hasReason: true
+        reason: 'hello'

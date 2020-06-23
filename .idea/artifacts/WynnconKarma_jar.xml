@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WynnconKarma:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WynnconKarma_jar</output-path>
+    <root id="archive" name="WynnconKarma.jar">
+      <element id="module-output" name="WynnconKarma" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/database.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>
